@@ -1,7 +1,7 @@
 
 
 ## 💭 Info du jour
-> *"Le langage Rust permet une gestion de la mémoire sans garbage collection, minimisant les risques de fuites de mémoire."*
+> *"WebAssembly permet d'exécuter des langages compilés directement dans les navigateurs, offrant des performances presque natives pour le web."*
 
 ---
 
@@ -13,8 +13,8 @@
 ---
 
 ## Statistiques GitHub
-- 🧮 **Contributions totales**: 524.  
-  Cela fait **47.64 commits par mois** 😎
+- 🧮 **Contributions totales**: 525.  
+  Cela fait **47.73 commits par mois** 😎
 - 📂 **Projets publics**: 6  
   Partagez, c'est mieux 🤝
 - 👥 **Abonnés**: 4
@@ -29,4 +29,4 @@ N'hésitez pas à me contacter via GitHub ou à explorer mes projets !
 
 ---
 
-*README généré pour la dernière fois le 26 Avril 2025 par un bot Python* -> [GitHub Profile](https://github.com/HenriSaumure/HenriSaumure)
+*README généré pour la dernière fois le 27 Avril 2025 par un bot Python* -> [GitHub Profile](https://github.com/HenriSaumure/HenriSaumure)

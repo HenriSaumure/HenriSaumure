@@ -1,7 +1,7 @@
 
 
 ## 💭 Info du jour
-> *"Les réseaux de neurones récurrents (RNN) sont utilisés dans la reconnaissance vocale et la traduction automatique, permettant des interactions plus naturelles."*
+> *"Les architectures serverless permettent de déployer des applications sans gérer de serveurs, réduisant ainsi la complexité et les coûts."*
 
 ---
 
@@ -13,8 +13,8 @@
 ---
 
 ## Statistiques GitHub
-- 🧮 **Contributions totales**: 531.  
-  Cela fait **48.27 commits par mois** 😎
+- 🧮 **Contributions totales**: 534.  
+  Cela fait **48.55 commits par mois** 😎
 - 📂 **Projets publics**: 6  
   Partagez, c'est mieux 🤝
 - 👥 **Abonnés**: 4
@@ -29,4 +29,4 @@ N'hésitez pas à me contacter via GitHub ou à explorer mes projets !
 
 ---
 
-*README généré pour la dernière fois le 01 Mai 2025 par un bot Python* -> [GitHub Profile](https://github.com/HenriSaumure/HenriSaumure)
+*README généré pour la dernière fois le 02 Mai 2025 par un bot Python* -> [GitHub Profile](https://github.com/HenriSaumure/HenriSaumure)

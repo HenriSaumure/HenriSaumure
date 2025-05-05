@@ -1,7 +1,7 @@
 
 
 ## 💭 Info du jour
-> *"L'informatique quantique promet de révolutionner le traitement des données, résolvant des problèmes complexes en quelques secondes là où les superordinateurs prennent des années."*
+> *"La blockchain est utilisée pour créer des contrats intelligents, éliminant les intermédiaires et rendant les transactions plus transparentes."*
 
 ---
 
@@ -13,8 +13,8 @@
 ---
 
 ## Statistiques GitHub
-- 🧮 **Contributions totales**: 540.  
-  Cela fait **49.09 commits par mois** 😎
+- 🧮 **Contributions totales**: 541.  
+  Cela fait **49.18 commits par mois** 😎
 - 📂 **Projets publics**: 6  
   Partagez, c'est mieux 🤝
 - 👥 **Abonnés**: 4
@@ -29,4 +29,4 @@ N'hésitez pas à me contacter via GitHub ou à explorer mes projets !
 
 ---
 
-*README généré pour la dernière fois le 04 Mai 2025 par un bot Python* -> [GitHub Profile](https://github.com/HenriSaumure/HenriSaumure)
+*README généré pour la dernière fois le 05 Mai 2025 par un bot Python* -> [GitHub Profile](https://github.com/HenriSaumure/HenriSaumure)

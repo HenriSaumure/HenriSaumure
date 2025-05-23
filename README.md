@@ -1,7 +1,7 @@
 
 
 ## 💭 Info du jour
-> *"Les assistants vocaux alimentés par l'IA, comme Alexa et Siri, utilisent des algorithmes de traitement du langage naturel pour mieux comprendre les utilisateurs."*
+> *"La réalité augmentée permet d’interagir avec des objets virtuels en temps réel, modifiant les expériences dans des domaines comme l’éducation et la santé."*
 
 ---
 
@@ -13,9 +13,9 @@
 ---
 
 ## Statistiques GitHub
-- 🧮 **Contributions totales**: 595.  
-  Cela fait **49.58 commits par mois** 😎
-- 📂 **Projets publics**: 7  
+- 🧮 **Contributions totales**: 602.  
+  Cela fait **50.17 commits par mois** 😎
+- 📂 **Projets publics**: 6  
   Partagez, c'est mieux 🤝
 - 👥 **Abonnés**: 4
 - 👀 **Abonnements**: 7
@@ -29,4 +29,4 @@ N'hésitez pas à me contacter via GitHub ou à explorer mes projets !
 
 ---
 
-*README généré pour la dernière fois le 22 Mai 2025 par un bot Python* -> [GitHub Profile](https://github.com/HenriSaumure/HenriSaumure)
+*README généré pour la dernière fois le 23 Mai 2025 par un bot Python* -> [GitHub Profile](https://github.com/HenriSaumure/HenriSaumure)

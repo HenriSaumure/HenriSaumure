@@ -1,7 +1,7 @@
 
 
 ## 💭 Info du jour
-> *"Le cryptage quantique est une technologie en développement qui pourrait rendre les données inviolables face aux ordinateurs quantiques du futur."*
+> *"La réalité augmentée permet d’interagir avec des objets virtuels en temps réel, modifiant les expériences dans des domaines comme l’éducation et la santé."*
 
 ---
 
@@ -13,8 +13,8 @@
 ---
 
 ## Statistiques GitHub
-- 🧮 **Contributions totales**: 622.  
-  Cela fait **51.83 commits par mois** 😎
+- 🧮 **Contributions totales**: 623.  
+  Cela fait **51.92 commits par mois** 😎
 - 📂 **Projets publics**: 6  
   Partagez, c'est mieux 🤝
 - 👥 **Abonnés**: 5
@@ -29,4 +29,4 @@ N'hésitez pas à me contacter via GitHub ou à explorer mes projets !
 
 ---
 
-*README généré pour la dernière fois le 02 Juin 2025 par un bot Python* -> [GitHub Profile](https://github.com/HenriSaumure/HenriSaumure)
+*README généré pour la dernière fois le 03 Juin 2025 par un bot Python* -> [GitHub Profile](https://github.com/HenriSaumure/HenriSaumure)

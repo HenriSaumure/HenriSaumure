@@ -1,7 +1,7 @@
 
 
 ## 💭 Info du jour
-> *"La réalité augmentée permet d’interagir avec des objets virtuels en temps réel, modifiant les expériences dans des domaines comme l’éducation et la santé."*
+> *"WebAssembly permet d'exécuter des langages compilés directement dans les navigateurs, offrant des performances presque natives pour le web."*
 
 ---
 
@@ -13,8 +13,8 @@
 ---
 
 ## Statistiques GitHub
-- 🧮 **Contributions totales**: 623.  
-  Cela fait **51.92 commits par mois** 😎
+- 🧮 **Contributions totales**: 624.  
+  Cela fait **52.00 commits par mois** 😎
 - 📂 **Projets publics**: 6  
   Partagez, c'est mieux 🤝
 - 👥 **Abonnés**: 5
@@ -29,4 +29,4 @@ N'hésitez pas à me contacter via GitHub ou à explorer mes projets !
 
 ---
 
-*README généré pour la dernière fois le 03 Juin 2025 par un bot Python* -> [GitHub Profile](https://github.com/HenriSaumure/HenriSaumure)
+*README généré pour la dernière fois le 04 Juin 2025 par un bot Python* -> [GitHub Profile](https://github.com/HenriSaumure/HenriSaumure)

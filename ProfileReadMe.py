@@ -316,7 +316,7 @@ def main():
                 print("Mise à jour du README annulée.")
             
         else:
-            print("Impossible de récupérer les informations du profil.")
+            print("Impossible de récupérer les informations du profil!.")
             
     except Exception as e:
         print(f"Une erreur s'est produite: {str(e)}")

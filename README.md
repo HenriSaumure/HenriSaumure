@@ -1,7 +1,7 @@
 
 
 ## 💭 Info du jour
-> *"Les plateformes de développement low-code permettent aux utilisateurs non techniques de créer des applications simples sans écrire de code."*
+> *"L'Edge computing réduit la latence en traitant les données à proximité de la source, idéal pour les applications en temps réel."*
 
 ---
 
@@ -13,9 +13,9 @@
 ---
 
 ## Statistiques GitHub
-- 🧮 **Contributions totales**: 726.  
-  Cela fait **51.86 commits par mois** 😎
-- 📂 **Projets publics**: 6  
+- 🧮 **Contributions totales**: 739.  
+  Cela fait **52.79 commits par mois** 😎
+- 📂 **Projets publics**: 5  
   Partagez, c'est mieux 🤝
 - 👥 **Abonnés**: 5
 - 👀 **Abonnements**: 11
@@ -29,4 +29,4 @@ N'hésitez pas à me contacter via GitHub ou à explorer mes projets !
 
 ---
 
-*README généré pour la dernière fois le 04 Août 2025 par un bot Python* -> [GitHub Profile](https://github.com/HenriSaumure/HenriSaumure)
+*README généré pour la dernière fois le 05 Août 2025 par un bot Python* -> [GitHub Profile](https://github.com/HenriSaumure/HenriSaumure)
